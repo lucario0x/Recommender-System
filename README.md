@@ -16,7 +16,7 @@ An image-based product recommender for fashion items. Given a product image, the
 
 ## Dataset
 
-Fashion Product Images dataset (product metadata in `styles.csv` and images in `images/`). Place the downloaded `archive.zip` in the working directory (the notebook expects `/content/archive.zip` on Google Colab); it is extracted automatically.
+Dataset Link : https://drive.google.com/file/d/129OC_SRlOpe-O1Bqa2CJsnQbzMYhQzhe/view?usp=sharing
 
 Preprocessing:
 
