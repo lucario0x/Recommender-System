@@ -57,15 +57,9 @@ Results on the held-out test set (also saved to `results.csv`):
 
 | Method | Precision@10 | MAP@10 |
 |---|---|---|
-| Random | _fill in_ | _fill in_ |
-| Autoencoder (from scratch) | _fill in_ | _fill in_ |
-| ResNet-50 (pretrained) | _fill in_ | _fill in_ |
-
-![MAP comparison](map_comparison.png)
-
-Example recommendations (first column is the query):
-
-![Example recommendations](examples.png)
+| Random | 0.0565 | 0.0197 |
+| Autoencoder (from scratch) | 0.4334 | 0.3690 |
+| ResNet-50 (pretrained) | 0.5819 | 0.5316 |
 
 ## Getting Started
 
